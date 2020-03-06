@@ -20,7 +20,7 @@
 	<header>
 		<div class="container">
 			<nav>
-				<a href="?pagina=home"><img src="3" title="Logo" alt="Logo"></a>
+				
 				<div id="menu">
 					<a href="?pagina=cursos">Cursos</a>
 					<a href="?pagina=alunos">Alunos</a>
